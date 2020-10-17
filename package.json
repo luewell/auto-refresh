@@ -1,0 +1,9 @@
+{
+  "name": "@luewell/auto-refresh",
+  "version": "1.0.0",
+  "description": "Luewell Auto Refresh",
+  "main": "index.js",
+  "repository": "https://github.com/luewell/auto-refresh",
+  "author": "Luewell <git@luewell.com>",
+  "license": "MIT"
+}
